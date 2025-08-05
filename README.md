@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm NAFISA ANJUM NEHA</h1>
 <h3 align="center">A FIRST-YEAR COMPUTER SCIENCE STUDENT FROM ISLAMIC UNIVERSITY OF TECHNOLOGY (IUT), DHAKA, BANGLADESH EXPLORING PROGRAMMING AND OTHER FIELDS FOR CAREER CHOOSING</h3>
 
-- 🔭 I’m currently working on **Bowl and Rolls**
+- 🔭 I’m currently working on **2D BOWLING GAME**
 
 - 🌱 I’m currently learning **DSA in C++**
 
